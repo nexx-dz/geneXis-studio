@@ -57,11 +57,11 @@ GENEⵣIS Studio is not a mere interface editor: it is a **complete visual devel
 | Built-in code editor | — | ✓ | ✓ |
 | Layout explorer | — | ✓ | ✓ |
 | Plugin manager | — | — | ✓ |
+| Built-in canvas help | — | — | ✓ |
 
 ## 🧩 Plugins
 
 Every GENEⵣIS Studio widget is a plugin. The plugin manager will allow the creator community to design and add new widgets, accessible directly from this tool.
-| Built-in canvas help | — | — | ✓ |
 
 - **LITE**: create freely, no time limit.
 - **DEMO**: all widgets and tools to try out, without saving or exporting.
@@ -148,11 +148,11 @@ GENEⵣIS Studio n'est pas un simple éditeur d'interfaces : c'est un **environn
 | Éditeur de code intégré | — | ✓ | ✓ |
 | Explorateur de layouts | — | ✓ | ✓ |
 | Gestionnaire de plugins | — | — | ✓ |
+| Aide canvas intégrée | — | — | ✓ |
 
 ## 🧩 Plugins
 
 Chaque widget de GENEⵣIS Studio est un plugin. Le gestionnaire de plugins permettra à la communauté des créateurs de concevoir et d'ajouter de nouveaux widgets, accessibles directement depuis cet outil.
-| Aide canvas intégrée | — | — | ✓ |
 
 - **LITE** : pour découvrir et créer librement, sans limite de temps.
 - **DEMO** : tous les widgets et outils à tester, sans sauvegarde ni export.
