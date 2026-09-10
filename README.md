@@ -1,3 +1,64 @@
+## ✨ Why GENEⵣIS Studio ?
+
+GENEⵣIS Studio is not a mere interface editor: it is a **complete visual development studio for Python PyQt6**. Draw windows, widgets and styles on the canvas, fine-tune every detail in the inspector (properties, QSS styles, translations, wiring), preview in one click, then **save your project and export the Python source code**. No-code is enough for basic apps — but this studio is a real IDE: export, code your logic, ship your application.
+
+## 🚀 LITE edition contents
+
+- **Clean source code export**: generate ready-to-use Python PyQt6
+- **Direct, working runtime preview** in one click
+- **Signal wiring**: in code, smart mode or wire mode
+- **Designer-grade canvas**: zoom, pan, advanced alignment tools
+- **18 essential widgets**: buttons, inputs, lists, tables, tabs, sliders, gauges, pickers…
+- **11 built-in themes** (dark, light, colorful)
+- **9 interface languages** (FR, EN, AR, DE, ES, IT, PT, RU, ZH) + translation dock
+- **Project saving**
+- Per-element QSS, right in the inspector
+
+## 📦 LITE · DEMO · Full
+
+| Feature | **LITE** (free) | **DEMO** (free) | **Full** |
+|---|---|---|---|
+| Price | Free | Free | Paid |
+| Widgets | 18 essentials | 30 (all) | 30 (all) |
+| Application themes | 11 | 11 | 11 |
+| Interface languages | 9 | 9 | 9 |
+| Designer canvas (zoom, pan) | ✓ | ✓ | ✓ |
+| Advanced alignment tools | ✓ | ✓ | ✓ |
+| Signal wiring (code / smart / wire) | ✓ | ✓ | ✓ |
+| Translation dock | ✓ | ✓ | ✓ |
+| Clean source code export | ✓ | — | ✓ |
+| EXE export via Nuitka (if installed) | — | — | ✓ |
+| Project saving | ✓ | — | ✓ |
+| Runtime preview | Full | Protected (watermark) | Full |
+| QSS (inspector, per element) | ✓ | ✓ | ✓ |
+| QSS studio (window, assistant, snippets) | — | ✓ | ✓ |
+| Built-in code editor | — | ✓ | ✓ |
+| Layout explorer | — | ✓ | ✓ |
+| Community plugins | — | — | ✓ + manager |
+| Built-in canvas help | — | — | ✓ |
+
+- **LITE**: create freely, no time limit.
+- **DEMO**: all widgets and tools to try out, without saving or exporting.
+- **Full**: everything unlocked — 30 widgets, community plugins, saving, EXE export, support.
+
+## 🔗 Links
+
+- **Full version** → [NEXⵣ official site](https://nexx-studio.netlify.app)
+- **YouTube channel** → [tutorials & demos](https://www.youtube.com/@nexx-dz)
+- **LITE download** → [Release v1.0.0](https://github.com/nexx-dz/geneXis-studio/releases)
+
+## 👥 Authors
+
+© 2026 B.F. Nexⵣ-Studio - Holmes & Watson
+
+---
+
+<p align="center">
+  <b>NEXⵣ</b> · Innovation & Culture Digitale
+</p>
+
+---
+
 ﻿<p align="center">
   <img src="assets/logo.svg" alt="GENEⵣIS Studio" width="120" />
 </p>
@@ -10,8 +71,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LITE-Gratuit-green" alt="LITE gratuit" />
-  <img src="https://img.shields.io/badge/Python-3.12-blue" alt="Python 3.12" />
-  <img src="https://img.shields.io/badge/PyQt6-✓-orange" alt="PyQt6" />
+  <img src="https://img.shields.io/badge/PyQt6-%E2%9C%93-orange" alt="PyQt6" />
   <img src="https://img.shields.io/badge/Windows-0078D6" alt="Windows" />
 </p>
 
@@ -23,18 +83,19 @@
 
 ## ✨ Pourquoi GENEⵣIS Studio ?
 
-GENEⵣIS Studio n'est pas un simple éditeur d'interfaces : c'est un **environnement de développement visuel complet pour Python PyQt6**. Posez vos fenêtres, vos widgets et vos styles sur le canvas, réglez chaque détail dans l'inspecteur (propriétés, styles QSS, traductions, câblage), prévisualisez en un clic, puis **sauvegardez votre projet et exportez le code source Python** — sans écrire une ligne à la main.
+GENEⵣIS Studio n'est pas un simple éditeur d'interfaces : c'est un **environnement de développement visuel complet pour Python PyQt6**. Dessinez vos fenêtres, widgets et styles sur le canvas, réglez chaque détail dans l'inspecteur (propriétés, styles QSS, traductions, câblage), prévisualisez en un clic, puis **sauvegardez votre projet et exportez le code source Python**. Le no-code suffit pour les applications basiques — mais ce studio est un vrai IDE : exportez, codez votre logique, finalisez votre application.
 
 ## 🚀 Contenu de l'édition LITE
 
+- **Export code source propre** : générez du Python PyQt6 directement exploitable
+- **Aperçu d'exécution direct** et fonctionnel, en un clic
+- **Câblage des signaux** : en code, en mode smart ou en mode filaire
+- **Canvas de graphiste** : zoom, pan, outils d'alignement avancés
 - **18 widgets essentiels** : boutons, champs, listes, tableaux, onglets, curseurs, jauges, sélecteurs…
 - **11 thèmes** prêts à l'emploi (sombres, clairs, colorés)
-- **9 langues d'interface** (FR, EN, AR, DE, ES, IT, PT, RU, ZH)
-- **6 styles de barre de titre** personnalisables
-- **Inspecteur complet** : propriétés, styles QSS, assistant CSS, sélecteurs
-- **Éditeur QSS intégré** pour un style avancé
-- **Sauvegarde des projets** + **export du code source**
-- **Aperçu d'exécution** en un clic
+- **9 langues d'interface** (FR, EN, AR, DE, ES, IT, PT, RU, ZH) + dock de traduction
+- **Sauvegarde des projets**
+- QSS par élément, directement dans l'inspecteur
 
 ## 🖼️ Aperçu
 
@@ -45,19 +106,27 @@ GENEⵣIS Studio n'est pas un simple éditeur d'interfaces : c'est un **environn
 | Fonctionnalité | **LITE** (gratuit) | **DEMO** (gratuit) | **Complète** |
 |---|---|---|---|
 | Prix | Gratuit | Gratuit | Payant |
-| Widgets | 18 essentiels | 30+ (tous) | 30+ + plugins communauté |
-| Thèmes | 11 | Tous | Tous |
+| Widgets | 18 essentiels | 30 (tous) | 30 (tous) |
+| Thèmes d'application | 11 | 11 | 11 |
 | Langues d'interface | 9 | 9 | 9 |
-| Styles de barre de titre | 6 | 6 | 6 |
+| Canvas graphiste (zoom, pan) | ✓ | ✓ | ✓ |
+| Outils d'alignement avancés | ✓ | ✓ | ✓ |
+| Câblage signaux (code / smart / filaire) | ✓ | ✓ | ✓ |
+| Dock de traduction | ✓ | ✓ | ✓ |
+| Export code source propre | ✓ | — | ✓ |
+| Export EXE via Nuitka (si installé) | — | — | ✓ |
 | Sauvegarde des projets | ✓ | — | ✓ |
-| Export du code source | ✓ | ✓ | ✓ |
-| Plugins communauté | — | ✓ | ✓ |
 | Aperçu d'exécution | Complet | Protégé (filigrane) | Complet |
-| Éditeur QSS | ✓ | ✓ | ✓ |
+| QSS (inspecteur, par élément) | ✓ | ✓ | ✓ |
+| Studio QSS (fenêtre, assistant, snippets) | — | ✓ | ✓ |
+| Éditeur de code intégré | — | ✓ | ✓ |
+| Explorateur de layouts | — | ✓ | ✓ |
+| Plugins communauté | — | — | ✓ + gestionnaire |
+| Aide canvas intégrée | — | — | ✓ |
 
 - **LITE** : pour découvrir et créer librement, sans limite de temps.
-- **DEMO** : la version complète à tester, sans la sauvegarde.
-- **Complète** : tout débloqué — tous les widgets, les plugins communauté, la sauvegarde, le support.
+- **DEMO** : tous les widgets et outils à tester, sans sauvegarde ni export.
+- **Complète** : tout débloqué — 30 widgets, plugins communauté, sauvegarde, export EXE, support.
 
 ## 🔗 Liens
 
@@ -89,63 +158,10 @@ GENEⵣIS Studio n'est pas un simple éditeur d'interfaces : c'est un **environn
 
 <p align="center">
   <img src="https://img.shields.io/badge/LITE-Free-green" alt="LITE free" />
-  <img src="https://img.shields.io/badge/Python-3.12-blue" alt="Python 3.12" />
   <img src="https://img.shields.io/badge/PyQt6-%E2%9C%93-orange" alt="PyQt6" />
   <img src="https://img.shields.io/badge/Windows-0078D6" alt="Windows" />
 </p>
 
 <p align="center">
   <a href="https://github.com/nexx-dz/geneXis-studio/releases/download/v1.0.0/GeneXis_Studio_lite_Setup.exe"><b>⬇ Download GENEⵣIS Studio LITE 1.0.0</b> (Windows Setup, ~116 MB)</a>
-</p>
-
----
-
-## ✨ Why GENEⵣIS Studio ?
-
-GENEⵣIS Studio is not a mere interface editor: it is a **complete visual development studio for Python PyQt6**. Drop windows, widgets and styles onto the canvas, fine-tune every detail in the inspector (properties, QSS styles, translations, wiring), preview in one click, then **save your project and export the Python source code** — without writing a single line by hand.
-
-## 🚀 LITE edition contents
-
-- **18 essential widgets**: buttons, inputs, lists, tables, tabs, sliders, gauges, pickers…
-- **11 built-in themes** (dark, light, colorful)
-- **9 interface languages** (FR, EN, AR, DE, ES, IT, PT, RU, ZH)
-- **6 customizable title bar styles**
-- **Full inspector**: properties, QSS styles, CSS assistant, selectors
-- **Built-in QSS editor** for advanced styling
-- **Project saving** + **source code export**
-- **One-click runtime preview**
-
-## 📦 LITE · DEMO · Full
-
-| Feature | **LITE** (free) | **DEMO** (free) | **Full** |
-|---|---|---|---|
-| Price | Free | Free | Paid |
-| Widgets | 18 essentials | 30+ (all) | 30+ + community plugins |
-| Themes | 11 | All | All |
-| Interface languages | 9 | 9 | 9 |
-| Title bar styles | 6 | 6 | 6 |
-| Project saving | ✓ | — | ✓ |
-| Source code export | ✓ | ✓ | ✓ |
-| Community plugins | — | ✓ | ✓ |
-| Runtime preview | Full | Protected (watermark) | Full |
-| QSS editor | ✓ | ✓ | ✓ |
-
-- **LITE**: create freely, no time limit.
-- **DEMO**: the full version to try out, without saving.
-- **Full**: everything unlocked — all widgets, community plugins, saving, support.
-
-## 🔗 Links
-
-- **Full version** → [NEXⵣ official site](https://nexx-studio.netlify.app)
-- **YouTube channel** → [tutorials & demos](https://www.youtube.com/@nexx-dz)
-- **LITE download** → [Release v1.0.0](https://github.com/nexx-dz/geneXis-studio/releases)
-
-## 👥 Authors
-
-© 2026 B.F. Nexⵣ-Studio - Holmes & Watson
-
----
-
-<p align="center">
-  <b>NEXⵣ</b> · Innovation & Culture Digitale
 </p>
