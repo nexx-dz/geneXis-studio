@@ -1,6 +1,28 @@
+<p align="center">
+  <img src="assets/logo.png" alt="GENEⵣIS Studio" width="120" />
+</p>
+
+<h1 align="center">GENEⵣIS Studio</h1>
+
+<p align="center">
+  <b>Design complete Python PyQt6 applications with this visual development studio.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LITE-Free-green" alt="LITE free" />
+  <img src="https://img.shields.io/badge/PyQt6-%E2%9C%93-orange" alt="PyQt6" />
+  <img src="https://img.shields.io/badge/Windows-0078D6" alt="Windows" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/nexx-dz/geneXis-studio/releases/download/v1.0.0/GeneXis_Studio_lite_Setup.exe"><b>⬇ Download GENEⵣIS Studio LITE 1.0.0</b> (Windows Setup, ~116 MB)</a>
+</p>
+
+---
+
 ## ✨ Why GENEⵣIS Studio ?
 
-GENEⵣIS Studio is not a mere interface editor: it is a **complete visual development studio for Python PyQt6**. Draw windows, widgets and styles on the canvas, fine-tune every detail in the inspector (properties, QSS styles, translations, wiring), preview in one click, then **save your project and export the Python source code**. No-code is enough for basic apps — but this studio is a real IDE: export, code your logic, ship your application.
+GENEⵣIS Studio is not a mere interface editor: it is a **complete visual development studio for Python PyQt6**. Draw windows, widgets and styles on the canvas, fine-tune every detail in the inspector (properties, QSS styles, translations, wiring), preview in one click, then **save your project and export the Python source code**. No-code is enough for basic apps — but this studio is a real IDE: export, code your logic, ship your application. And every widget **is** a plugin: an open architecture that grows with its creators.
 
 ## 🚀 LITE edition contents
 
@@ -19,7 +41,7 @@ GENEⵣIS Studio is not a mere interface editor: it is a **complete visual devel
 | Feature | **LITE** (free) | **DEMO** (free) | **Full** |
 |---|---|---|---|
 | Price | Free | Free | Paid |
-| Widgets | 18 essentials | 30 (all) | 30 (all) |
+| Widgets (plugins) | 18 built-in | 30 built-in | 30 built-in (see plugin section) |
 | Application themes | 11 | 11 | 11 |
 | Interface languages | 9 | 9 | 9 |
 | Designer canvas (zoom, pan) | ✓ | ✓ | ✓ |
@@ -34,7 +56,11 @@ GENEⵣIS Studio is not a mere interface editor: it is a **complete visual devel
 | QSS studio (window, assistant, snippets) | — | ✓ | ✓ |
 | Built-in code editor | — | ✓ | ✓ |
 | Layout explorer | — | ✓ | ✓ |
-| Community plugins | — | — | ✓ + manager |
+| Plugin manager | — | — | ✓ |
+
+## 🧩 Plugins
+
+Every GENEⵣIS Studio widget is a plugin. The plugin manager will allow the creator community to design and add new widgets, accessible directly from this tool.
 | Built-in canvas help | — | — | ✓ |
 
 - **LITE**: create freely, no time limit.
@@ -60,7 +86,7 @@ GENEⵣIS Studio is not a mere interface editor: it is a **complete visual devel
 ---
 
 ﻿<p align="center">
-  <img src="assets/logo.svg" alt="GENEⵣIS Studio" width="120" />
+  <img src="assets/logo.png" alt="GENEⵣIS Studio" width="120" />
 </p>
 
 <h1 align="center">GENEⵣIS Studio</h1>
@@ -83,7 +109,7 @@ GENEⵣIS Studio is not a mere interface editor: it is a **complete visual devel
 
 ## ✨ Pourquoi GENEⵣIS Studio ?
 
-GENEⵣIS Studio n'est pas un simple éditeur d'interfaces : c'est un **environnement de développement visuel complet pour Python PyQt6**. Dessinez vos fenêtres, widgets et styles sur le canvas, réglez chaque détail dans l'inspecteur (propriétés, styles QSS, traductions, câblage), prévisualisez en un clic, puis **sauvegardez votre projet et exportez le code source Python**. Le no-code suffit pour les applications basiques — mais ce studio est un vrai IDE : exportez, codez votre logique, finalisez votre application.
+GENEⵣIS Studio n'est pas un simple éditeur d'interfaces : c'est un **environnement de développement visuel complet pour Python PyQt6**. Dessinez vos fenêtres, widgets et styles sur le canvas, réglez chaque détail dans l'inspecteur (propriétés, styles QSS, traductions, câblage), prévisualisez en un clic, puis **sauvegardez votre projet et exportez le code source Python**. Le no-code suffit pour les applications basiques — mais ce studio est un vrai IDE : exportez, codez votre logique, finalisez votre application. Et chaque widget **est** un plugin : une architecture ouverte qui grandit avec ses créateurs.
 
 ## 🚀 Contenu de l'édition LITE
 
@@ -106,7 +132,7 @@ GENEⵣIS Studio n'est pas un simple éditeur d'interfaces : c'est un **environn
 | Fonctionnalité | **LITE** (gratuit) | **DEMO** (gratuit) | **Complète** |
 |---|---|---|---|
 | Prix | Gratuit | Gratuit | Payant |
-| Widgets | 18 essentiels | 30 (tous) | 30 (tous) |
+| Widgets (plugins) | 18 intégrés | 30 intégrés | 30 intégrés (voir la section plugin) |
 | Thèmes d'application | 11 | 11 | 11 |
 | Langues d'interface | 9 | 9 | 9 |
 | Canvas graphiste (zoom, pan) | ✓ | ✓ | ✓ |
@@ -121,7 +147,11 @@ GENEⵣIS Studio n'est pas un simple éditeur d'interfaces : c'est un **environn
 | Studio QSS (fenêtre, assistant, snippets) | — | ✓ | ✓ |
 | Éditeur de code intégré | — | ✓ | ✓ |
 | Explorateur de layouts | — | ✓ | ✓ |
-| Plugins communauté | — | — | ✓ + gestionnaire |
+| Gestionnaire de plugins | — | — | ✓ |
+
+## 🧩 Plugins
+
+Chaque widget de GENEⵣIS Studio est un plugin. Le gestionnaire de plugins permettra à la communauté des créateurs de concevoir et d'ajouter de nouveaux widgets, accessibles directement depuis cet outil.
 | Aide canvas intégrée | — | — | ✓ |
 
 - **LITE** : pour découvrir et créer librement, sans limite de temps.
@@ -142,26 +172,4 @@ GENEⵣIS Studio n'est pas un simple éditeur d'interfaces : c'est un **environn
 
 <p align="center">
   <b>NEXⵣ</b> · Innovation & Culture Digitale
-</p>
-
----
-
-<p align="center">
-  <img src="assets/logo.svg" alt="GENEⵣIS Studio" width="120" />
-</p>
-
-<h1 align="center">GENEⵣIS Studio</h1>
-
-<p align="center">
-  <b>Design complete Python PyQt6 applications with this visual development studio.</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LITE-Free-green" alt="LITE free" />
-  <img src="https://img.shields.io/badge/PyQt6-%E2%9C%93-orange" alt="PyQt6" />
-  <img src="https://img.shields.io/badge/Windows-0078D6" alt="Windows" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/nexx-dz/geneXis-studio/releases/download/v1.0.0/GeneXis_Studio_lite_Setup.exe"><b>⬇ Download GENEⵣIS Studio LITE 1.0.0</b> (Windows Setup, ~116 MB)</a>
 </p>
