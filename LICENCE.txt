@@ -1,0 +1,245 @@
+================================================================================
+GENEⵣIS Studio Lite — LICENCE D'UTILISATION (EULA)
+Version 1.0 — 2026-09-16
+================================================================================
+
+Le présent document constitue un accord entre l'utilisateur (« l'Utilisateur »)
+et B.F. Nexⵣ-Studio — Holmes & Watson (« l'Éditeur »), propriétaire du logiciel
+GENEⵣIS Studio. En installant ou en utilisant le logiciel, l'Utilisateur
+accepte l'intégralité des clauses ci-dessous.
+
+--------------------------------------------------------------------------------
+1. OBJET
+--------------------------------------------------------------------------------
+L'Éditeur concède à l'Utilisateur un droit d'utilisation gratuit, non exclusif,
+non transférable et non cessible du logiciel GENEⵣIS Studio Lite (la « Version
+LITE »), pour la durée de vie du logiciel, conformément aux dispositions de la
+présente licence.
+
+--------------------------------------------------------------------------------
+2. PÉRIMÈTRE D'UTILISATION
+--------------------------------------------------------------------------------
+2.1. L'Utilisateur est autorisé à utiliser la Version LITE pour créer des
+     interfaces, applications et tout autre contenu (« les Créations »).
+
+2.2. LES CRÉATIONS APPARTIENNENT À L'UTILISATEUR. Toutes les Créations
+     réalisées avec la Version LITE peuvent être utilisées, publiées,
+     vendues et commercialisées librement par l'Utilisateur, y compris à des
+     fins commerciales.
+
+2.3. SEQLE CONDITION DE COMMERCIALISATION : toute utilisation commerciale
+     d'une Création doit mentionner clairement le logiciel d'origine — la
+     mention « Créé avec GENEⵣIS Studio Lite » (ou équivalent dans la langue
+     de publication) doit apparaître dans les informations, documents,
+     descriptions ou crédits associés à la Création.
+
+2.4. LA VERSION LITE ELLE-MÊME NE PEUT EN AUCUN CAS ÊTRE COMMERCIALISÉE.
+     Il est strictement interdit de vendre, louer, céder à titre onéreux ou
+     intégger la Version LITE (notamment en tant que composant d'un autre
+     produit vendu) sans l'accord écrit préalable de l'Éditeur.
+
+--------------------------------------------------------------------------------
+3. RESTRICTIONS
+--------------------------------------------------------------------------------
+Il est interdit à l'Utilisateur de :
+  a) distribuer, diffuser, publier ou mettre à disposition la Version LITE
+     sous une forme modifiée, ou de la présenter comme son propre logiciel ;
+  b) revendre, louer, prêter ou céder la Version LITE à titre onéreux ou
+     gratuit, en tout ou partie ;
+  c) modifier, adapter, traduire ou créer des œuvres dérivées de la Version
+     LITE, sauf disposition expresse contraire de la présente licence ;
+  d) décompiler, désassembler, s'ingénier à comprendre le code objet ou le
+     contourner, sous quelque forme que ce soit ;
+  e) contourner, neutraliser ou tenter de contourner les limitations de la
+     Version LITE (fonctionnalités réservées aux éditions supérieures) ;
+  f) utiliser la Version LITE pour développer un logiciel concurrent ou en
+     extraire des éléments afin de reproduire le logiciel.
+
+--------------------------------------------------------------------------------
+4. PROPRIÉTÉ INTELLECTUELLE
+--------------------------------------------------------------------------------
+La Version LITE, y compris son code source, sa structure, son interface, ses
+icônes et sa documentation, demeure la propriété exclusive de l'Éditeur. La
+présente licence ne confère à l'Utilisateur aucun droit de propriété sur le
+logiciel, mais seulement un droit d'utilisation dans les limites définies
+ci-dessus. Le nom « GENEⵣIS Studio », le logo et les marques associées restent
+la propriété exclusive de l'Éditeur.
+
+--------------------------------------------------------------------------------
+5. DONNÉES
+--------------------------------------------------------------------------------
+La Version LITE fonctionne localement sur le poste de l'Utilisateur. Elle ne
+collecte, ne transmet et ne stocke à distance aucune donnée personnelle. Les
+projets et fichiers créés par l'Utilisateur demeurent sur sa machine, sous son
+exclusive responsabilité.
+
+--------------------------------------------------------------------------------
+6. GARANTIE
+--------------------------------------------------------------------------------
+La Version LITE est fournie « EN L'ÉTAT » (« AS IS »), sans aucune garantie,
+expresse ou implicite, notamment sans garantie de qualité, d'aptitude à un
+usage particulier, d'exhaustivité ou d'absence d'erreurs. L'Éditeur ne garantit
+pas que le logiciel fonctionnera sans interruption ni erreur, ni qu'il
+conviendra à l'usage prévu par l'Utilisateur.
+
+--------------------------------------------------------------------------------
+7. RESPONSABILITÉ
+--------------------------------------------------------------------------------
+Dans toute la mesure permise par le droit applicable, l'Éditeur ne pourra en
+aucun cas être tenu responsable des dommages directs, indirects, accessoires,
+spéciaux ou consécutifs, y compris la perte de données, de profits ou
+d'exploitation, résultant de l'utilisation ou de l'impossibilité d'utiliser la
+Version LITE, même si l'Éditeur a été informé de la possibilité de tels
+dommages. La responsabilité totale de l'Éditeur au titre de la présente
+licence ne pourra excéder le prix effectivement payé par l'Utilisateur pour la
+Version LITE (soit zéro, le logiciel étant gratuit).
+
+--------------------------------------------------------------------------------
+8. RÉSILIATION
+--------------------------------------------------------------------------------
+La présente licence s'applique jusqu'à sa résiliation. Elle prend fin de plein
+droit, sans préavis, en cas de violation par l'Utilisateur de l'une de ses
+dispositions. À la résiliation, l'Utilisateur devra cesser toute utilisation et
+supprimer toutes les copies de la Version LITE en sa possession.
+
+--------------------------------------------------------------------------------
+9. DROIT APPLICABLE
+--------------------------------------------------------------------------------
+La présente licence est régie par le droit suisse. Tout litige relatif à son
+interprétation ou à son exécution sera soumis aux juridictions compétentes de
+la Confédération suisse.
+
+--------------------------------------------------------------------------------
+10. VERSION DE LA LICENCE
+--------------------------------------------------------------------------------
+La présente licence (Version 1.0, 2026-09-16) peut être modifiée par l'Éditeur
+pour les versions futures du logiciel. Les versions antérieures du logiciel
+restent régies par la version de licence qui leur était applicable.
+
+--------------------------------------------------------------------------------
+11. CONTACT
+--------------------------------------------------------------------------------
+B.F. Nexⵣ-Studio — Holmes & Watson
+Site : https://nexx-studio.netlify.app
+GitHub : https://github.com/nexx-dz
+
+================================================================================
+GENEⵣIS Studio Lite — END USER LICENSE AGREEMENT (EULA)
+Version 1.0 — 2026-09-16
+================================================================================
+
+This document constitutes an agreement between the user ("the User") and
+B.F. Nexⵣ-Studio — Holmes & Watson ("the Publisher"), owner of the software
+GENEⵣIS Studio. By installing or using the software, the User accepts all of
+the clauses below.
+
+--------------------------------------------------------------------------------
+1. GRANT OF LICENSE
+--------------------------------------------------------------------------------
+The Publisher grants the User a free, non-exclusive, non-transferable and
+non-assignable right to use the software GENEⵣIS Studio Lite ("the LITE
+Edition") for the lifetime of the software, in accordance with the provisions
+of this license.
+
+--------------------------------------------------------------------------------
+2. SCOPE OF USE
+--------------------------------------------------------------------------------
+2.1. The User is authorized to use the LITE Edition to create interfaces,
+     applications and any other content ("the Creations").
+
+2.2. THE CREATIONS BELONG TO THE USER. All Creations made with the LITE
+     Edition may be freely used, published, sold and commercialized by the
+     User, including for commercial purposes.
+
+2.3. SOLE CONDITION FOR COMMERCIALIZATION: any commercial use of a Creation
+     must clearly mention the origin software — the notice "Created with
+     GENEⵣIS Studio Lite" (or its equivalent in the publication language) must
+     appear in the information, documents, descriptions or credits associated
+     with the Creation.
+
+2.4. THE LITE EDITION ITSELF MAY NOT BE COMMERCIALIZED UNDER ANY CIRCUMSTANCES.
+     It is strictly forbidden to sell, rent, transfer for value or embed the
+     LITE Edition (including as a component of another product for sale)
+     without the prior written consent of the Publisher.
+
+--------------------------------------------------------------------------------
+3. RESTRICTIONS
+--------------------------------------------------------------------------------
+The User is forbidden to:
+  a) distribute, publish or make available the LITE Edition in a modified
+     form, or present it as their own software;
+  b) resell, rent, lend or transfer the LITE Edition, in whole or in part, for
+     value or for free;
+  c) modify, adapt, translate or create derivative works of the LITE Edition,
+     except as expressly permitted by this license;
+  d) decompile, disassemble, reverse-engineer or bypass the object code of the
+     LITE Edition in any form;
+  e) circumvent, neutralize or attempt to circumvent the limitations of the
+     LITE Edition (features reserved to the upper editions);
+  f) use the LITE Edition to develop a competing software, or extract elements
+     from it in order to reproduce the software.
+
+--------------------------------------------------------------------------------
+4. INTELLECTUAL PROPERTY
+--------------------------------------------------------------------------------
+The LITE Edition, including its source code, structure, interface, icons and
+documentation, remains the exclusive property of the Publisher. This license
+confers no ownership right to the User over the software, but only a right of
+use within the limits defined above. The name "GENEⵣIS Studio", the logo and
+related trademarks remain the exclusive property of the Publisher.
+
+--------------------------------------------------------------------------------
+5. DATA
+--------------------------------------------------------------------------------
+The LITE Edition runs locally on the User's device. It does not collect,
+transmit or remotely store any personal data. The projects and files created
+by the User remain on their machine, under their sole responsibility.
+
+--------------------------------------------------------------------------------
+6. WARRANTY
+--------------------------------------------------------------------------------
+The LITE Edition is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability, fitness
+for a particular purpose, completeness or error-free operation. The Publisher
+does not warrant that the software will operate without interruption or error,
+nor that it will meet the User's intended use.
+
+--------------------------------------------------------------------------------
+7. LIABILITY
+--------------------------------------------------------------------------------
+To the fullest extent permitted by applicable law, the Publisher shall not be
+liable for any direct, indirect, incidental, special or consequential damages,
+including loss of data, profits or business, arising out of the use or
+inability to use the LITE Edition, even if the Publisher has been advised of
+the possibility of such damages. The Publisher's total liability under this
+license shall not exceed the price actually paid by the User for the LITE
+Edition (i.e. zero, as the software is free).
+
+--------------------------------------------------------------------------------
+8. TERMINATION
+--------------------------------------------------------------------------------
+This license applies until terminated. It terminates automatically, without
+notice, upon any breach by the User of any of its provisions. Upon termination,
+the User must stop all use and delete all copies of the LITE Edition in their
+possession.
+
+--------------------------------------------------------------------------------
+9. GOVERNING LAW
+--------------------------------------------------------------------------------
+This license is governed by Swiss law. Any dispute relating to its
+interpretation or performance shall be submitted to the competent courts of
+the Swiss Confederation.
+
+--------------------------------------------------------------------------------
+10. LICENSE VERSION
+--------------------------------------------------------------------------------
+This license (Version 1.0, 2026-09-16) may be amended by the Publisher for
+future versions of the software. Earlier versions of the software remain
+governed by the license version applicable to them.
+
+--------------------------------------------------------------------------------
+11. CONTACT
+--------------------------------------------------------------------------------
+B.F. Nexⵣ-Studio — Holmes & Watson
+Website: https://nexx-studio.netlify.app
+GitHub: https://github.com/nexx-dz

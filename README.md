@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nexx-dz/geneXis-studio/releases/download/v1.0.0/GeneXis_Studio_lite_Setup.exe"><b>⬇ Download GENEⵣIS Studio LITE 1.0.0</b> (Windows Setup, ~116 MB)</a>
+  <a href="https://github.com/nexx-dz/geneXis-studio/releases/download/v1.0.1/GeneXis_Studio_lite_Setup.exe"><b>⬇ Download GENEⵣIS Studio LITE 1.0.1</b> (Windows Setup, ~116 MB)</a>
 </p>
 
 ---
@@ -35,6 +35,10 @@ GENEⵣIS Studio is not a mere interface editor: it is a **complete visual devel
 - **9 interface languages** (FR, EN, AR, DE, ES, IT, PT, RU, ZH) + translation dock
 - **Project saving**
 - Per-element QSS, right in the inspector
+
+## 🖼️ Preview
+
+<img src="assets/screenshot.png" alt="GENEⵣIS Studio screenshot" width="640" />
 
 ## 📦 LITE · DEMO · Full
 
@@ -67,11 +71,34 @@ Every GENEⵣIS Studio widget is a plugin. The plugin manager will allow the cre
 - **DEMO**: all widgets and tools to try out, without saving or exporting.
 - **Full**: everything unlocked — 30 widgets, community plugins, saving, EXE export, support.
 
+## 💻 System requirements
+
+- **OS**: Windows 10 / 11 (64-bit)
+- **Architecture**: x64
+- **Storage**: ~350 MB free during installation (~116 MB installer + extracted application)
+- **Optional**: Python 3.12+ (to use the exported source code directly), Nuitka (Full edition EXE export)
+
+## 🗑️ Uninstall
+
+1. Run the **Uninstall** shortcut created in the Start menu (or `Uninstall GENEXIS Studio LITE.exe` in the installation folder).
+2. Follow the instructions. User-created projects are never touched by the uninstaller.
+
+## 📜 Changelog
+
+### v1.0.1 (2026-09-21)
+- **EULA included** (FR + EN): the license agreement is now installed with the application (LICENCE.txt).
+  Key point: anything created with the LITE edition belongs to you and may be commercialized if you credit « Created with GENEⵣIS Studio Lite ». The LITE edition itself may not be resold or embedded in a commercial product.
+  Governing law: Swiss law.
+- SHA256 checksum: `0DFDF4E8AE32F9585ED02738888140601401BCEAF48005511E4F02FD9E534073`
+
+### v1.0.0 (2026-09-10)
+- First public LITE release: source code export, runtime preview, signal wiring, 18 widgets, 11 themes, 9 languages, project saving.
+
 ## 🔗 Links
 
 - **Full version** → [NEXⵣ official site](https://nexx-studio.netlify.app)
 - **YouTube channel** → [tutorials & demos](https://www.youtube.com/@nexx-dz)
-- **LITE download** → [Release v1.0.0](https://github.com/nexx-dz/geneXis-studio/releases)
+- **LITE download** → [Release v1.0.1](https://github.com/nexx-dz/geneXis-studio/releases)
 
 ## 👥 Authors
 
@@ -85,7 +112,7 @@ Every GENEⵣIS Studio widget is a plugin. The plugin manager will allow the cre
 
 ---
 
-﻿<p align="center">
+<p align="center">
   <img src="assets/logo.png" alt="GENEⵣIS Studio" width="120" />
 </p>
 
@@ -102,7 +129,7 @@ Every GENEⵣIS Studio widget is a plugin. The plugin manager will allow the cre
 </p>
 
 <p align="center">
-  <a href="https://github.com/nexx-dz/geneXis-studio/releases/download/v1.0.0/GeneXis_Studio_lite_Setup.exe"><b>⬇ Télécharger GENEⵣIS Studio LITE 1.0.0</b> (Setup Windows, ~116 Mo)</a>
+  <a href="https://github.com/nexx-dz/geneXis-studio/releases/download/v1.0.1/GeneXis_Studio_lite_Setup.exe"><b>⬇ Télécharger GENEⵣIS Studio LITE 1.0.1</b> (Setup Windows, ~116 Mo)</a>
 </p>
 
 ---
@@ -125,7 +152,7 @@ GENEⵣIS Studio n'est pas un simple éditeur d'interfaces : c'est un **environn
 
 ## 🖼️ Aperçu
 
-> Capture d'écran en préparation — sera ajoutée ici (`assets/screenshot.svg`).
+<img src="assets/screenshot.png" alt="Capture GENEⵣIS Studio" width="640" />
 
 ## 📦 LITE · DEMO · Complète
 
@@ -158,11 +185,34 @@ Chaque widget de GENEⵣIS Studio est un plugin. Le gestionnaire de plugins perm
 - **DEMO** : tous les widgets et outils à tester, sans sauvegarde ni export.
 - **Complète** : tout débloqué — 30 widgets, plugins communauté, sauvegarde, export EXE, support.
 
+## 💻 Configuration requise
+
+- **Système** : Windows 10 / 11 (64 bits)
+- **Architecture** : x64
+- **Stockage** : ~350 Mo libres pendant l'installation (~116 Mo l'installeur + application déployée)
+- **Optionnel** : Python 3.12+ (pour exploiter le code source exporté), Nuitka (export EXE de l'édition Complète)
+
+## 🗑️ Désinstallation
+
+1. Lancez le raccourci **Désinstaller** créé dans le menu Démarrer (ou `Uninstall GENEXIS Studio LITE.exe` dans le dossier d'installation).
+2. Suivez les instructions. Les projets créés par l'utilisateur ne sont jamais touchés par le désinstalleur.
+
+## 📜 Changelog
+
+### v1.0.1 (2026-09-21)
+- **EULA inclus (FR + EN)** : le contrat de licence est désormais installé avec l'application (LICENCE.txt).
+  Point clé : tout ce qui est créé avec l'édition LITE vous appartient et peut être commercialisé à condition de citer « Créé avec GENEⵣIS Studio Lite ». L'édition LITE elle-même ne peut pas être revendue ni incluse dans un produit commercial.
+  Droit applicable : droit suisse.
+- Checksum SHA256 : `0DFDF4E8AE32F9585ED02738888140601401BCEAF48005511E4F02FD9E534073`
+
+### v1.0.0 (2026-09-10)
+- Première release LITE publique : export du code source, aperçu d'exécution, câblage des signaux, 18 widgets, 11 thèmes, 9 langues, sauvegarde des projets.
+
 ## 🔗 Liens
 
 - **Version complète** → [Site officiel NEXⵣ](https://nexx-studio.netlify.app)
 - **Chaîne YouTube** → [tutoriels & démos](https://www.youtube.com/@nexx-dz)
-- **Téléchargement LITE** → [Release v1.0.0](https://github.com/nexx-dz/geneXis-studio/releases)
+- **Téléchargement LITE** → [Release v1.0.1](https://github.com/nexx-dz/geneXis-studio/releases)
 
 ## 👥 Auteurs
 
