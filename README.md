@@ -38,7 +38,7 @@ GENEⵣIS Studio is not a mere interface editor: it is a **complete visual devel
 
 ## 🖼️ Preview
 
-<img src="assets/screenshot.png" alt="GENEⵣIS Studio screenshot" width="640" />
+<img src="assets/screenshot.webp" alt="GENEⵣIS Studio screenshot" width="640" />
 
 ## 📦 LITE · DEMO · Full
 
@@ -89,7 +89,7 @@ Every GENEⵣIS Studio widget is a plugin. The plugin manager will allow the cre
 - **EULA included** (FR + EN): the license agreement is now installed with the application (LICENCE.txt).
   Key point: anything created with the LITE edition belongs to you and may be commercialized if you credit « Created with GENEⵣIS Studio Lite ». The LITE edition itself may not be resold or embedded in a commercial product.
   Governing law: Swiss law.
-- SHA256 checksum: `0DFDF4E8AE32F9585ED02738888140601401BCEAF48005511E4F02FD9E534073`
+- SHA256 checksum: `37FE98F41D97206803BA17C1E8D3CA8C6813D3972A169B6644E5FB98C05810CD`
 
 ### v1.0.0 (2026-09-10)
 - First public LITE release: source code export, runtime preview, signal wiring, 18 widgets, 11 themes, 9 languages, project saving.
@@ -152,7 +152,7 @@ GENEⵣIS Studio n'est pas un simple éditeur d'interfaces : c'est un **environn
 
 ## 🖼️ Aperçu
 
-<img src="assets/screenshot.png" alt="Capture GENEⵣIS Studio" width="640" />
+<img src="assets/screenshot.webp" alt="Capture GENEⵣIS Studio" width="640" />
 
 ## 📦 LITE · DEMO · Complète
 
@@ -203,7 +203,7 @@ Chaque widget de GENEⵣIS Studio est un plugin. Le gestionnaire de plugins perm
 - **EULA inclus (FR + EN)** : le contrat de licence est désormais installé avec l'application (LICENCE.txt).
   Point clé : tout ce qui est créé avec l'édition LITE vous appartient et peut être commercialisé à condition de citer « Créé avec GENEⵣIS Studio Lite ». L'édition LITE elle-même ne peut pas être revendue ni incluse dans un produit commercial.
   Droit applicable : droit suisse.
-- Checksum SHA256 : `0DFDF4E8AE32F9585ED02738888140601401BCEAF48005511E4F02FD9E534073`
+- Checksum SHA256 : `37FE98F41D97206803BA17C1E8D3CA8C6813D3972A169B6644E5FB98C05810CD`
 
 ### v1.0.0 (2026-09-10)
 - Première release LITE publique : export du code source, aperçu d'exécution, câblage des signaux, 18 widgets, 11 thèmes, 9 langues, sauvegarde des projets.
